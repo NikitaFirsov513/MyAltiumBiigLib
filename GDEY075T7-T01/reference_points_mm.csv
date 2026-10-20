@@ -1,0 +1,7 @@
+﻿reference,X_mm,Y_mm,Z_mm,meaning
+origin,0,0,0,Front-view lower-left panel corner; rear plane
+panel_top_right,170.2,111.2,2.13,Nominal envelope corner
+FPC24_tip_center,84.05,-24,0,Flat tail edge; NOT PCB connector center
+FPC6_tip_center,40.8,-45.07,0,Flat tail edge; NOT PCB connector center
+FPC24_contact_start_center,84.05,-20.8,0,Contact region reference in FLAT drawing
+FPC6_contact_start_center,40.8,-41.57,0,Contact region reference in FLAT drawing

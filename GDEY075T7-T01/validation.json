@@ -1,0 +1,54 @@
+[
+  {
+    "file": "GDEY075T7-T01_panel.step",
+    "valid_after_reimport": true,
+    "solids": 3,
+    "bounds_mm": [
+      -1e-07,
+      -1e-07,
+      -1e-07,
+      170.20000009999998,
+      111.2000001,
+      2.1300000999999997
+    ]
+  },
+  {
+    "file": "GDEY075T7-T01_flat.step",
+    "valid_after_reimport": true,
+    "solids": 5,
+    "bounds_mm": [
+      -1e-07,
+      -45.0700001,
+      -0.3000001,
+      170.20000009999998,
+      111.2000001,
+      2.1300000999999997
+    ]
+  },
+  {
+    "file": "GDEY075T7-T01_FPC24_flat.step",
+    "valid_after_reimport": true,
+    "solids": 1,
+    "bounds_mm": [
+      76.5499999,
+      -24.0000001,
+      -0.3000001,
+      91.55000009999999,
+      1e-07,
+      1e-07
+    ]
+  },
+  {
+    "file": "GDEY075T7-T01_FPC6_flat.step",
+    "valid_after_reimport": true,
+    "solids": 1,
+    "bounds_mm": [
+      26.299999899999527,
+      -45.0700001,
+      -0.3000001,
+      55.3000001,
+      1.9900001,
+      1e-07
+    ]
+  }
+]
